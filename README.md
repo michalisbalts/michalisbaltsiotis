@@ -13,7 +13,7 @@ Research interests include applied machine learning, computational modeling, and
   *Frontiers in Immunology*, 2026  
   DOI: [10.3389/fimmu.2026.1741872](https://doi.org/10.3389/fimmu.2026.1741872)
 
-- Machine learning models for antibiotic resistance prediction  
+- Machine learning models for predicting antibiotic resistance in *Mycobacterium tuberculosis*  
   *(XGBoost, ROC-AUC 0.976)*
 
 ---
