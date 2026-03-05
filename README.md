@@ -9,9 +9,10 @@ Research interests include applied machine learning, computational modeling, and
 
 ### Selected Work
 
--RNA sequencing-derived gene co-expression and drug-gene interaction analysis reveal STAT1 as a potential therapeutic target in thrombotic antiphospholipid syndrome
-Frontiers in Immunology, 2026
-DOI: https://doi.org/10.3389/fimmu.2026.1741872
+- **RNA sequencing-derived gene co-expression and drug-gene interaction analysis reveal STAT1 as a potential therapeutic target in thrombotic antiphospholipid syndrome**  
+  *Frontiers in Immunology, 2026*  
+  DOI: https://doi.org/10.3389/fimmu.2026.1741872  
+
 - Machine learning models for antibiotic resistance prediction (XGBoost, ROC-AUC 0.976)
 
 ---
